@@ -1,6 +1,7 @@
+
 ### Hi there 👋my name is Chen Sror
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on chatBot project in codecademy platform
@@ -9,3 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn - Chen Sror](https://www.linkedin.com/in/chen-sror/)
 
 
+-->
